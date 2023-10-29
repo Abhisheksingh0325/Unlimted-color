@@ -1,0 +1,29 @@
+body {
+    background-color: #212121;
+    color: #fff;
+    transition: background-color 0.5s ease; /* Add a transition effect for background-color */
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
